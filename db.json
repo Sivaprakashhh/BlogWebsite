@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My Life Story",
+      "content": "I'm a NTU Electrical & Electronic graduate. I graduated in the year 2025 and I specialise in InfoCommunication Engineering."
+    },
+    {
+      "id": "2",
+      "title": "Why I Chose Engineering",
+      "content": "Growing up, I was always curious about how things worked. Engineering gave me the tools to explore that curiosity and turn it into a meaningful career."
+    },
+    {
+      "id": "3",
+      "title": "Internship at A*STAR",
+      "content": "During my final year at NTU, I interned at A*STAR where I worked on a 5G signal processing project. It was a rewarding experience that taught me both technical and teamwork skills."
+    },
+    {
+      "id": "4",
+      "title": "Tips for Surviving University",
+      "content": "University life can be overwhelming. My advice: manage your time well, don't be afraid to ask for help, and find a good study group. Also, never skip meals!"
+    },
+    {
+      "id": "5",
+      "title": "My Final Year Project Experience",
+      "content": "My final year project involved building a smart IoT-based traffic monitoring system. It was challenging but incredibly fulfilling when it worked during the live demo!"
+    },
+    {
+      "id": "6",
+      "title": "Career Aspirations After Graduation",
+      "content": "I'm passionate about working in the tech industry, particularly in areas related to network infrastructure and cybersecurity. I'm currently exploring roles that align with these interests."
+    },
+    {
+      "id": "7",
+      "title": "Joining Hackathons in University",
+      "content": "One of the best decisions I made during uni was participating in hackathons. They pushed me to learn quickly, work in diverse teams, and solve real-world problems under pressure."
+    },
+    {
+      "id": "8",
+      "title": "Balancing Academics and Social Life",
+      "content": "University isn’t just about books. I joined a few clubs and made lifelong friends. Balancing fun with studies was tough at first, but I learned how important mental breaks are."
+    }
+  ]
+}

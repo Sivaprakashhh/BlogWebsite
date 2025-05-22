@@ -1,0 +1,28 @@
+<main>
+		<div style="background-color: #971c54">
+  <div class="container py-5">
+    <div class="row align-items-center">
+      <!-- Text Column -->
+      <div class="col-12 col-lg-6 text-center text-lg-start text-white mb-4 mb-lg-0">
+        <div>
+          <h1 class="mb-2">The best</h1>
+          <h1 class="text-warning display-3 display-lg-1 fw-bold roboto mb-2">Open Source Community</h1>
+          <h2 class="fs-4 fw-light">to share content</h2>
+        </div>
+      </div>
+
+      <!-- Image Column -->
+      <div class="col-12 col-lg-6 text-center">
+        <img src="assets/images/contract.png" alt="Open Source" class="img-fluid" style="max-width: 50%;">
+      </div>
+    </div>
+  </div>
+</div>
+		<div class="container my-5">
+			<div class="d-flex align-items-center justify-content-between bg-light mb-3 p-3">
+				<h2 class="m-0 roboto text-danger roboto fw-bold">Popular Posts</h2>
+				<a href="/blog" class="btn btn-outline-danger">View All <i class="fas fa-arrow-right"></i></a>
+			</div>
+			<app-posts class="row" [colClass]= "['col-lg-3']"[limit]="4"></app-posts>
+		</div>
+	</main>
